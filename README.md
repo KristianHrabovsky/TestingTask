@@ -10,6 +10,6 @@ V projektu jsou pouzity tyto balicky:
 
 Tento projekt byl vytvoren ve IDE Visual Studio a tedy obsahuje soubor .sln pro jednodussi spusteni.
 
-Pro spusteni staci tento projekt otevrit a spustit ve Visual Studiu
+Pro spusteni staci tento projekt otevrit a spustit ve Visual Studiu.
 
 Databaze SQLite se uklada do slozky bin/debug/net.8.0/
