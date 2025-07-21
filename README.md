@@ -9,6 +9,7 @@ V projektu jsou pouzity tyto balicky:
 2) Newtonsoft.Json - pro praci s Json souborem
 
 Tento projekt byl vytvoren ve IDE Visual Studio a tedy obsahuje soubor .sln pro jednodussi spusteni.
+Projekt obsahuje pomocne funkce, napriklad vypis databazovych dat do konzole.
 
 Pro spusteni staci tento projekt otevrit a spustit ve Visual Studiu.
 
